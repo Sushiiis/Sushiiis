@@ -12,7 +12,7 @@ Backend-разработчик на Go. Пишу сервисы с упором 
  
 ---
  
-### 🚀 Проекты
+🚀 Проекты
  
 **[T-Wallet](https://github.com/Sushiiis/T-Wallet)** — сервис кошелька на Go
 - gRPC API (protobuf-контракты)
