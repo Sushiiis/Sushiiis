@@ -29,9 +29,3 @@ Backend-разработчик на Go. Пишу сервисы с чистой 
 - Ретраи с экспоненциальным backoff и джиттером, dead-letter queue с ручным replay
 - Circuit breaker, HMAC-подпись запросов
 - Очередь на PostgreSQL (`FOR UPDATE SKIP LOCKED`) с несколькими воркерами
-
----
-
-<p align="center">
-<i>Открыт к pet-проектам и совместной работе</i>
-</p>
