@@ -4,8 +4,6 @@ Backend-разработчик на Go. Пишу сервисы с чистой 
 
 ---
 
-### 🔧 Стек
-
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -14,14 +12,14 @@ Backend-разработчик на Go. Пишу сервисы с чистой 
 
 ---
 
-### 🚀 Проекты
+### Основные проекты
 
 **[T-Wallet](https://github.com/Sushiiis/T-Wallet)** — сервис кошелька на Go
 - gRPC API (protobuf-контракты)
 - Чистая архитектура (разделение на domain / internal)
 - Миграции БД, Docker, CI-пайплайн на GitLab
 
-**[bot-tg](https://github.com/Sushiiis/bot-tg)** — Telegram-бот на Go
+**[bot-tg](https://github.com/Sushiiis/bot-tg)** - Telegram-бот на Go
 - Интеграция с OpenWeatherMap API
 - Работа с переменными окружения и JSON
 
