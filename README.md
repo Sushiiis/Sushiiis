@@ -2,7 +2,7 @@
 <p align="center">
 Backend-разработчик на Go. Пишу сервисы с упором на чистую архитектуру и понятную инфраструктуру.
 </p>
-### 🔧 Стек
+🔧 Стек
  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
